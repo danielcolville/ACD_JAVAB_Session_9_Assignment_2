@@ -6,7 +6,6 @@ import java.util.Set;
 public class SetUnion {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Set<Integer> s1=new HashSet<Integer>();
 		for(int i=0;i<10;i++) {
 			s1.add(i);
